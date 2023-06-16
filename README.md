@@ -33,4 +33,4 @@ In order to win the game, the user has to take into account some important point
 
 ## 🚀 Live Demo
 
-Check it out [here]
+Check it out [here] (https://decisivehoneybadger.github.io/guess-my-number/)
